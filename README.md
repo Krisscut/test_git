@@ -1,6 +1,4 @@
 # test_git
 ##########
 
-Test commit
-
-test
+A basic git project created during the git formation on OpenClassroom
